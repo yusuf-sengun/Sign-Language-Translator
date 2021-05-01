@@ -17,7 +17,7 @@ The main purpose of project is translating sign-language to letters. In accordan
 
 <h2> How To ? </h2>
 
-First of all you need to start project from Home.py. When you start the program a user graphical user interface pop up, In this interface there are 2 main and one assistan feature;<br>
+First of all you need to start project from Home.py. When you start the program a user graphical user interface pop up, In this interface there are two main and one assistan feature;<br>
 <h3>1-)Sign-Language Translator</h3>
 <p>The application translate the sign-language to letters that user show specified area. There are some features that established in this window as follows;</p>
 <h4>1.1-)Did you mean</h4>
