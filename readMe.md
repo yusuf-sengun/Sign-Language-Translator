@@ -1,0 +1,1 @@
+<h1> Sign Language Translator </h1>
