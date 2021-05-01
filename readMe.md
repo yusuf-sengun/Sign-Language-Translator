@@ -8,6 +8,11 @@ The main purpose of project is translating sign-language to letters. In accordan
 <p>Sign-Language Translator</p>
 <p>Education of Sign-Language</p>
 
+<h3>Project and Model</h3>
+<p>Current Project version : v0.8.0</p>
+<p>Current model version : v0.3.0</p>
+
+
 
 
 <h2>Installation</h2>
