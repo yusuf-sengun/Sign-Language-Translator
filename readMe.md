@@ -2,7 +2,7 @@
 
 <h2>Project Description</h2>
 
-Projemizin temel amacı işaret dilini yazıya çevirmektir. Bu amaç doğrultusunda <a href="www.googl.com">google</a>
+Projemizin temel amacı işaret dilini yazıya çevirmektir. Bu amaç doğrultusunda <a href="www.google.com">google</a>
 
 <h2>Installation</h2>
 
