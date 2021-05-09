@@ -14,7 +14,9 @@ The main purpose of project is translating sign-language to letters. In accordan
 <p>Python version : v3.9.2</p>
 
 <h2>Installation</h2>
-
+First of all you need to download python at least 3.9.2, you can download from <a href="https://www.python.org/downloads/release/python-392/" traget="_blank">here</a>.
+Then you can use the <a href="" target="_blank">requiremnts.txt</a> file to download necessary python libaries.
+          
 <h2> How To ? </h2>
 
 First of all you need to start project from Home.py. When you start the program a user graphical user interface pop up, In this interface there are two main and one assistan feature;<br>
