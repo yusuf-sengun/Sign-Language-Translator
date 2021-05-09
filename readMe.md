@@ -25,6 +25,6 @@ First of all you need to start project from Home.py. When you start the program 
 <h4>1.2-)Direct select to letter</h4>
 <p>While translating letters user can directly select a letter from list without waiting for prediction time.</p>
 <h3>2-)Education</h3>
-<p>The application also provide an educition system to gain ability about Sign-Language. In this mode first of all user needs to select a letter that want to train, after selection an image appers this image reprents as selected letter in terms of Sign-Language.</p>
+<p>The application also provide an education system to gain ability about Sign-Language. In this mode first of all user needs to select a letter that want to train, after selection an image appers this image represents as selected letter in terms of Sign-Language.</p>
 <h3>3-)Dataset</h3>
 <p>User can see the letters in terms of Sing-Language, This window does not close until user close thanks to that, user can access data while translating some letters.</p>
